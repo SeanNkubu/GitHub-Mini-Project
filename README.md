@@ -1,11 +1,13 @@
 # GitHub-Mini-Project 
 
 Cybersecurity Awareness Notes Repository
+Key Features:
 
-cybersecurity-awareness-notes/
-├── README.md
-├── Research_Document.pdf
-├── Password_Strength_Checker.py
-├── Email_Safety_Tips.md
-└── Screenshots/
-    └── Sample_Tips_Screenshot.png
+Organized folder structure for easy navigation.
+
+Markdown files (.md) for lightweight documentation.
+
+PDF version of research notes for offline reading.
+
+Python script demonstrates a practical cybersecurity concept (password strength)
+
